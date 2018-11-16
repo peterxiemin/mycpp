@@ -1,0 +1,4 @@
+ToolSet: 2.11.2@E:\cygwin64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=E:/cygwin64/bin/make.exe
